@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My simple list Application</string>
+    <string-array name="contacts">
+
+        <item>Sarah</item>
+        <item>Daniel</item>
+        <item>Prochorus</item>
+        <item>Kamau</item>
+        <item>Denis</item>
+        <item>Thelma</item>
+        <item>Faith</item>
+        <item>Mulumba</item>
+        <item>Senjy</item>
+        <item>Shem</item>
+        <item>Sylvia</item>
+        <item>Fidel</item>
+        <item>Tito</item>
+        <item>Levis</item>
+        <item>Victor</item>
+        <item>James</item>
+        <item>Hans</item>
+        <item>Reinhard</item>
+
+    </string-array>
+</resources>
